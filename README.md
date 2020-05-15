@@ -1,2 +1,2 @@
-# Homework1_BurakFidan
-CS240 HW1
+# CS 240 
+CS 240 Assignements.
